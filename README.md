@@ -147,3 +147,31 @@ Data Collection
 → Prediction  
 
 This makes the system easy to understand, reproducible, and suitable for academic and learning purposes.
+
+
+## Credits
+
+This project was developed for academic and learning purposes.
+
+**Concept & Implementation**
+- Machine Learning model design and implementation by **Bakshish Kaur**
+- Data preprocessing, feature engineering, and evaluation logic designed and implemented by **Bakshish Kaur**
+
+**Libraries & Tools Used**
+- Python programming language
+- NumPy for numerical computations
+- Pandas for data handling and data manipulation
+- Matplotlib for data visualization
+- Seaborn for statistical visualizations
+- Scikit-learn for machine learning models and evaluation metrics
+- Jupyter Notebook for experimentation and analysis
+
+**Learning & Reference Sources**
+- Scikit-learn official documentation
+- Python official documentation
+- Public machine learning learning resources and tutorials
+
+**Acknowledgment**
+- Open-source Python and machine learning communities for providing reliable tools and documentation
+- Academic resources that supported the understanding of sleep behavior and data-driven analysis
+
